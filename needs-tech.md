@@ -3,12 +3,17 @@
 Scenario: Recover across restarts of the server
 that runs the visit-counter
 
-  Given
-  When
-  Then
+  Given The system restarts agian with log file
+  
+  When The foot fall counter records the data
+  
+  Then The system must "add" the count from
+  log file
 
 Scenario: Reconcile counts if the sensor is offline for a while
 
-  Given
-  When
-  Then
+  Given The system have the log file
+  
+  When The entry book must bve filled  
+  
+  Then The system is entered manually
