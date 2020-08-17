@@ -14,7 +14,7 @@ Scenario: Alert when seating capacity is full
   Given The system sensor works good
   
   When The data in report reaches the "Max" value
-  for the hour
+  for the hour.
   
-  Then The system informs the staff working the 
+  Then The system will inform the staff working the
   specific department
