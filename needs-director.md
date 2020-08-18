@@ -20,5 +20,5 @@
   When the facilities managers provide the data of
   visiting specialists before the specific time.
   
-  Then reserving the parking area for visiting specialists by
+  Then reserving the parking area for visiting specialists
   by informing the specific department to do so.
