@@ -16,4 +16,4 @@ Scenario: Reconcile counts if the sensor is offline for a while
   
   When The entry book must have filled  
   
-  Then The system is entered manually
+  Then The system staff enters the data manually
