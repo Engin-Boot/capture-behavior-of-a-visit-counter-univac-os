@@ -7,7 +7,7 @@ Scenario: Report visitor trends during a week of operation
   When The data from system shows daily update
   
   Then The report shows the data in an api format
-  or web(html) format or in graphical format
+  or in web(html) format or in graphical format
 
 Scenario: Alert when seating capacity is full
 
