@@ -4,10 +4,10 @@ Scenario: Report visitor trends during a week of operation
 
   Given The system works good with sensor
   
-  When The report uses time to time update
+  When The data from system shows daily update
   
-  Then The report shows the data in web format
-  or api format or sql.
+  Then The report shows the data in api format
+  or web(html) format or in graphical format
 
 Scenario: Alert when seating capacity is full
 
