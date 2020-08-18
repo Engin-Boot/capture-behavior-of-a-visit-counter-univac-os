@@ -18,7 +18,7 @@
   slot reserved.
   
   When the facilities managers provide the data of
-  visiting specialists before the sepcific time.
+  visiting specialists before the specific time.
   
   Then reserving the parking area for visiting specialists by
   by informing the specific department to do so.
