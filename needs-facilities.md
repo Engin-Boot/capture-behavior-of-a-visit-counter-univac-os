@@ -8,7 +8,7 @@
   
   Then the Facilities Manager able to see number of visitors
   on each day of week in the form of a graph according to
-  the various categories.
+  the categories.
 
 ## Scenario: Alert when seating capacity is full
 
